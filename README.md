@@ -13,3 +13,7 @@ This is my github profile
 <b>Note:</b> The right thing is doing without being told.
 </p>
 
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=Khanhhungtran23&label=Profile+Views" alt="Khanhhungtran23" />
+  </p>
+
