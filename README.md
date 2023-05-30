@@ -1,6 +1,7 @@
 ![alt text](./images/intro_header.png)
 
-# My name is Tran Vu Khanh Hung. I am sophomore at International University - HCMIUVN.
+# My name is Tran Vu Khanh Hung. 
+I am sophomore at International University - VNUHCMC.
 This is my github profile
 
 ![divider](./images/divider.gif)
