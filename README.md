@@ -1,6 +1,6 @@
 ![alt text](./images/intro_header.png)
 
-# 💫 My name is Tran Vu Khanh Hung 💫 
+<h3> <p align="center"> # 💫 My name is Tran Vu Khanh Hung 💫 </p> </h3>
 <p> I am sophomore at International University - VNUHCMC. </p>
 This is my github profile
 
