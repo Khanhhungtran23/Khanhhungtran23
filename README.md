@@ -2,7 +2,7 @@
 
 <h1> <p align="center">  💫 My name is Tran Vu Khanh Hung 💫 </p> </h1>
 <h3> About me: </h3>
-<p3>🔥I am sophomore at International University - VNUHCMC. </p3>
+<p>🔥I am sophomore at International University - VNUHCMC. </p>
 🔥A self-taught programing
 This is my github profile
 
