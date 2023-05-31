@@ -13,7 +13,7 @@ This is my github profile
   <img title="🔥" src="https://github-readme-streak-stats.herokuapp.com/?user=Khanhhungtran23&theme=monokai-metallian&hide_border=true"/>
 <br>
 <br>
-<b>Note:</b> The right thing is doing without being told.
+<b>Note:</b> Initiative is doing the right thing without being told.
 </p>
 
 <p align="center">
