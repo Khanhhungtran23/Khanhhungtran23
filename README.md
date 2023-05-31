@@ -1,7 +1,9 @@
 ![alt text](./images/intro_header.png)
 
 <h1> <p align="center">  💫 My name is Tran Vu Khanh Hung 💫 </p> </h1>
-<p> I am sophomore at International University - VNUHCMC. </p>
+## About me
+- <p> I am sophomore at International University - VNUHCMC. </p>
+- A self-taught programing
 This is my github profile
 
 ![divider](./images/divider.gif)
