@@ -4,7 +4,7 @@
 <h3> About me: </h3>
 <p>🔥I am sophomore at International University - VNUHCMC. </p>
 🔥A self-taught programing
-This is my github profile
+
 
 ![divider](./images/divider.gif)
 
