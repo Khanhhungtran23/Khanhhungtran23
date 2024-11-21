@@ -1,11 +1,11 @@
 ![alt text](./images/intro_header.png)
 
 ### <samp>Hi there 👋, I'm <a href="https://www.linkedin.com/in/tranvukhanhhung23/" target="_blank">Khanh Hung</a></samp>
-<h3> About me:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h3> 
+<h3> About me:</h3> 
 <p>🔥I am senior student at International University - VNUHCMC. </p>
 🔥A self-taught programing
 <p> You are there ! Thanks for visit </p>
-
+<p> Contact: tvkhhung03@gmail.com </p>
 ![divider](./images/divider.gif)
 
 <div>
