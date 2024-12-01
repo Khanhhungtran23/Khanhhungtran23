@@ -4,6 +4,7 @@
 <h3> About me:</h3> 
 <p>🔥I am senior student at International University - VNUHCMC. </p>
 🔥A self-taught programing
+<samp>As a Computer Science student with a focus on backend development, I am dedicated to mastering the intricacies of server-side technologies and architecture. My passion for programming drives me to create efficient, scalable solutions that enhance user experiences. With a keen interest in DevOps practices, I strive to bridge the gap between development and operations, ensuring seamless deployment and continuous integration. I’m excited about the potential to innovate and make a positive impact in the tech world.</samp>
 <p> You are there ! Thanks for visit </p>
 <p> Contact: tvkhhung03@gmail.com </p>
 <div>
