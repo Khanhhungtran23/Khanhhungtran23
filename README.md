@@ -7,9 +7,12 @@
 <p> You are there! Thanks for visit </p>
 <p> Contact: tvkhhung03@gmail.com </p>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khanhhungtran23&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  ![Khanh Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khanhhungtran23&show_icons=true&theme=transparent)
+  <a href="https://github.com/Khanhhungtran23/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Khanhhungtran23" />
+</a>
+<a href="https://github.com/Khanhhungtran23/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khanhhungtran23&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 ### 📊 GitHub Profile Statistics
