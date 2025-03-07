@@ -5,9 +5,9 @@
 ### <samp>Glad to see you here! &nbsp; 
 <samp>🔥 Senior Computer Science student at International University - VNUHCMC | Software Engineer</samp>
 <samp>Passionate about backend development and DevOps, I specialize in building scalable, efficient systems. With a strong focus on server-side technologies and CI/CD practices, I aim to bridge development and operations for seamless deployment. Always eager to innovate and make an impact in tech..</samp>
-<p> You are there! Thanks for visit </p>
+<samp> You are there! Thanks for visit </samp>
 <samp>Contact: <a href="mailto:tvkhhung03@gmail.com">tvkhhung03@gmail.com</a></samp>
-<h3 align="left">Languages and Tools:</h3>
+<samp><h3 align="left">Languages and Tools:</h3></samp>
 <p align="left">
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -118,7 +118,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2030%20mins-blue)
 
-📊 GitHub Profile Statistics
+📊 <samp>GitHub Profile Statistics</samp>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khanhhungtran23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
@@ -127,7 +127,7 @@
 <p align="center">
 <br>
 <br>
-<b>Note:</b> Initiative is doing the right thing without being told.
+<samp><b>Note:</b> Initiative is doing the right thing without being told.</samp>
 </p>
 
 <p align="center">
