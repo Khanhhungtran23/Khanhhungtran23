@@ -1,4 +1,4 @@
-![alt text](./images/intro_header.png)
+<!-- ![alt text](./images/intro_header.png) -->
 
 ### <samp>Hi there 👋, I'm <a href="https://www.linkedin.com/in/tranvukhanhhung23/" target="_blank">Khanh Hung</a></samp>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tranvukhanhhung23/)
@@ -67,11 +67,6 @@
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-
-  <!-- Apidog -->
-  <a href="https://apidog.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apidog/apidog-icon.svg" alt="apidog" width="40" height="40"/>
   </a>
 
   <!-- TensorFlow -->
