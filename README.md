@@ -3,10 +3,10 @@
 ### <samp>Hi there 👋, I'm <a href="https://www.linkedin.com/in/tranvukhanhhung23/" target="_blank">Khanh Hung</a></samp>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tranvukhanhhung23/)
 ### <samp>Glad to see you here! &nbsp; 
-<p>🔥 Senior Computer Science student at International University - VNUHCMC | Software Engineer</p>
+<samp>🔥 Senior Computer Science student at International University - VNUHCMC | Software Engineer</samp>
 <samp>Passionate about backend development and DevOps, I specialize in building scalable, efficient systems. With a strong focus on server-side technologies and CI/CD practices, I aim to bridge development and operations for seamless deployment. Always eager to innovate and make an impact in tech..</samp>
 <p> You are there! Thanks for visit </p>
-<p>Contact: <a href="mailto:tvkhhung03@gmail.com">tvkhhung03@gmail.com</a></p>
+<samp>Contact: <a href="mailto:tvkhhung03@gmail.com">tvkhhung03@gmail.com</a></samp>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Docker -->
