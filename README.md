@@ -118,7 +118,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2030%20mins-blue)
 
-📊 ### <samp>GitHub Profile Statistics</samp>
+📊 <samp>GitHub Profile Statistics</samp>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khanhhungtran23&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
