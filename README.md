@@ -7,10 +7,11 @@
 <samp>Passionate about backend development and DevOps, I specialize in building scalable, efficient systems. With a strong focus on server-side technologies and CI/CD practices, I aim to bridge development and operations for seamless deployment. Always eager to innovate and make an impact in tech.</samp>
 <br>
 <samp> You are there! Thanks for visit </samp> <br>
-<samp>Find out more: https://johntran.netlify.app/ </samp>
+<ul>
+<li><samp>Find out more: https://johntran.netlify.app/ </samp></li>
 <br>
-<samp>Contact: <a href="mailto:tvkhhung03@gmail.com">tvkhhung03@gmail.com</a></samp>
-<samp><h3 align="left">Languages and Tools:</h3></samp>
+<li><samp>Contact: <a href="mailto:tvkhhung03@gmail.com">tvkhhung03@gmail.com</a></samp></li>
+<li><samp><h3 align="left">Languages and Tools:</h3></samp></li></ul>
 <p align="left">
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
