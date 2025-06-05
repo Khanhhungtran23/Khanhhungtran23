@@ -8,8 +8,8 @@
 <br>
 <samp> You are there! Thanks for visit </samp> <br>
 <ul>
-<li><samp>Find out more: https://johntran.netlify.app/ </samp></li>
-<br>
+<!-- <li><samp>Find out more: https://johntran.netlify.app/ </samp></li>
+<br> -->
 <li><samp>Contact: <a href="mailto:tvkhhung03@gmail.com">tvkhhung03@gmail.com</a></samp></li></ul>
 <samp><h3 align="left">Languages and Tools:</h3></samp>
 <p align="left">
